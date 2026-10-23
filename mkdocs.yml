@@ -8,7 +8,7 @@ theme:
   name: material
   logo: 'assets/bceln_logo.jpg'
   palette:
-    primary: 'purple'
+    primary: 'green'
     accent: 'yellow'
   language: 'en'
   features:
@@ -37,8 +37,11 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Handbook: handbook.md
   - Tutors: tutors/tutors.md
   - Coordinators: coordinators/coordinators.md
   - About:
     - About: about/about.md
+    - Contact Us: about/contact.md
     - Support: about/support.md
+  
